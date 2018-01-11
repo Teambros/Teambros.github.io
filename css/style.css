@@ -3051,6 +3051,10 @@ Tabs style
 /*
 Team style
 */
+
+.text-white {
+  color: white;
+}
 .team-card {
   position: relative;
   overflow: hidden; }
